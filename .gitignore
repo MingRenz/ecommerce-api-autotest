@@ -6,3 +6,5 @@ __pycache__/
 allure-results/
 allure-report/
 .idea/
+logs/
+1.py
